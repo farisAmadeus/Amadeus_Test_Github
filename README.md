@@ -1,2 +1,2 @@
-# Amamdeus_Test
+# Amadeus_Test
 Amadeus data science Test
